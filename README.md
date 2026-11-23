@@ -188,7 +188,7 @@ The current implementation is a single-file Cloudflare Worker containing:
 
 ## 9. Status and Scope
 
-- The source passes a JavaScript syntax check; a live deployment has not been independently verified as part of this publication.
+- The author has tested the bot and uses it actively. Separately, the source passes a JavaScript syntax check; an independent live deployment test was not part of this publication.
 - The bot is built for one group per deployment, selected through `ALLOWED_GROUP_ID`.
 - AI features are optional and disabled until the corresponding providers and settings are configured.
 
